@@ -2,6 +2,8 @@
 import './App.css';
 
 
+
+
 let name="WORLD"
 
 function App() {
@@ -25,9 +27,9 @@ function App() {
             </div>
         </div>
       </div>
-  
     
 </>)}
+
 
 function PhotoB (){
   return <div>
